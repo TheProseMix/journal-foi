@@ -11,6 +11,7 @@ recent and oldest, releasing the backlog slowly, but surely.
 | Date       | Status                                                  |
 | :--------- | :------------------------------------------------------ |
 | 2021-06-18 | First release                                           |
+| 2021-10-08 | Finished redacting back issues                          |
 
 ## Photographs
 
