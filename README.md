@@ -12,6 +12,7 @@ recent and oldest, releasing the backlog slowly, but surely.
 | :--------- | :------------------------------------------------------ |
 | 2021-06-18 | First release                                           |
 | 2021-10-08 | Finished redacting back issues                          |
+| 2022-05-02 | Started transcribing audio recordings                   |
 
 ## Photographs
 
@@ -19,4 +20,6 @@ These will take time to redact...
 
 ## Audio Recordings
 
-These will take time to redact...
+Rather than redacting the audio recordings, which would be excessive
+work, I have transcribed them; again, with sensitive information
+redacted in the text.
