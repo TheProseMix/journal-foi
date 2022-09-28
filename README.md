@@ -13,6 +13,7 @@ recent and oldest, releasing the backlog slowly, but surely.
 | 2021-06-18 | First release                                           |
 | 2021-10-08 | Finished redacting back issues                          |
 | 2022-05-02 | Started transcribing audio recordings                   |
+| 2022-09-28 | Detached Git LFS assets and migrated to Backblaze B2    |
 
 ## Photographs
 
